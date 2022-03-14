@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 News]]></title><description><![CDATA[Making service meshes available to the rest of us. Open source software for management of service meshes. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidentally run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Jan 2022 08:07:00 GMT</lastBuildDate><item><title><![CDATA[Analyzing Service Mesh Performance]]></title><description><![CDATA[var _excluded = ["components"];
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Layer5 News]]></title><description><![CDATA[Making service meshes available to the rest of us. Open source software for management of service meshes. Allowing developers to focus on business logic, not infrastructure concerns. Empowering operators to confidentally run modern infrastructure.]]></description><link>https://layer5.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 06:07:17 GMT</lastBuildDate><item><title><![CDATA[Analyzing Service Mesh Performance]]></title><description><![CDATA[var _excluded = ["components"];
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
@@ -18,6 +18,9 @@ var _frontmatter = {
   "thumbnail": "./cover.png",
   "eurl": "https://www.nxtbook.com/nxtbooks/ieee/bridge_issue3_2021/index.php#/p/16",
   "published": true,
+  "type": "News",
+  "product": "Service Mesh Performance",
+  "resource": true,
   "redirect_from": ["/news/analyzing-service-mesh-performance"]
 };
 var layoutProps = {
@@ -69,7 +72,10 @@ var _frontmatter = {
   "category": "Coverage",
   "thumbnail": "./mesh-tools.png",
   "eurl": "https://containerjournal.com/features/6-cncf-service-mesh-tools",
-  "published": true
+  "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true
 };
 var layoutProps = {
   _frontmatter: _frontmatter
@@ -112,6 +118,9 @@ var _frontmatter = {
   "thumbnail": "./devops.png",
   "eurl": "https://devops.com/cncf-adopts-meshery-to-advance-service-mesh-management/",
   "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true,
   "redirect_from": ["/news/cncf-adopts-meshery-to-advance-service-mesh-management"]
 };
 var layoutProps = {
@@ -153,7 +162,10 @@ var _frontmatter = {
   "author": "The Newsroom",
   "category": "Press Release",
   "thumbnail": "../../../assets/images/service-mesh-performance/horizontal/smp-dark-text-side.png",
-  "published": true
+  "published": true,
+  "type": "News",
+  "product": "Service Mesh Performance",
+  "resource": true
 };
 var layoutProps = {
   _frontmatter: _frontmatter
@@ -206,7 +218,10 @@ var _frontmatter = {
   "author": "The Newsroom",
   "category": "Press Release",
   "thumbnail": "../../../assets/images/meshery/full-logo/meshery-logo-light-text-side.svg",
-  "published": true
+  "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true
 };
 var layoutProps = {
   _frontmatter: _frontmatter
@@ -275,6 +290,9 @@ var _frontmatter = {
   "thumbnail": "./The-New-Stack-Logo.svg",
   "eurl": "https://thenewstack.io/cncf-projects-bring-service-mesh-interoperability-benchmarks/",
   "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true,
   "redirect_from": ["/news/cncf-projects-bring-service-mesh-interoperability-benchmarks"]
 };
 var layoutProps = {
@@ -318,6 +336,9 @@ var _frontmatter = {
   "thumbnail": "./kubernetes-with-mesh-tools.png",
   "eurl": "https://techgenix.com/kubernetes-service-mesh-tools/",
   "published": true,
+  "type": "News",
+  "technology": "Kubernetes",
+  "resource": true,
   "redirect_from": ["/news/service-mesh-offers-promising-solution-for-cloud-native-networking/"]
 };
 var layoutProps = {
@@ -386,6 +407,10 @@ var _frontmatter = {
   "thumbnail": "./service-mesh.png",
   "eurl": "http://www.enterprisenetworkingplanet.com/datacenter/datacenter-blog/service-mesh-cloud-native-networking.html",
   "published": true,
+  "type": "News",
+  "product": "Service Mesh Performance",
+  "resource": true,
+  "technology": "Cloud",
   "redirect_from": ["/news/service-mesh-offers-promising-solution-for-cloud-native-networking/"]
 };
 var layoutProps = {
@@ -432,6 +457,9 @@ var _frontmatter = {
   "thumbnail": "./service-mesh-implementations.png",
   "eurl": "https://thenewstack.io/kubeconcloudnativecon-service-mesh-battle-stories-and-fixes/",
   "published": true,
+  "type": "News",
+  "product": "Service Mesh Performance",
+  "resource": true,
   "redirect_from": ["/news/kubecon+cloudnativecon-service-mesh-battle-stories-and-fixes/"]
 };
 var layoutProps = {
@@ -484,8 +512,12 @@ var _frontmatter = {
   "author": "The Newsroom",
   "thumbnail": "./kubernetes-platform.png",
   "category": "Coverage",
-  "eurl": "https://amalgaminsights.com/product/market-landscape-kubernetes-evolves-into-an-enterprise-platform/",
-  "published": true
+  "eurl": "https://amalgaminsights.com/2018/12/20/the-view-from-kubeconcloudnativecon-seattle/",
+  "published": true,
+  "type": "News",
+  "technology": "Kubernetes",
+  "product": "Meshery",
+  "resource": true
 };
 var layoutProps = {
   _frontmatter: _frontmatter
@@ -510,11 +542,11 @@ return function MDXContent(_ref) {
   }, mdx("b", null, "Meshery")), " is also providing a service mesh management plane as separate software that can interact using the Service Mesh Interface or through built-for-purpose adapters for a variety of existing service mesh products and projects.")), mdx("p", null, "Like Kubernetes control planes, this extension of the service mesh control plane allows for consistent management and policies across clusters in different environments, a situation that is becoming more typical in enterprise IT applications."), mdx("p", null, "Service mesh control plane federation is an emerging feature of service mesh products. Unlike Kubernetes control planes, it is not yet commonplace, but Amalgam Insights predicts that we will see service mesh control plane federation become a normal part of the service mesh landscape."), mdx("center", null, mdx("h5", {
     className: "black-text"
   }, "Access the full ", mdx("a", {
-    href: "https://amalgaminsights.com/product/market-landscape-kubernetes-evolves-into-an-enterprise-platform/"
+    href: "https://amalgaminsights.com/2018/12/20/the-view-from-kubeconcloudnativecon-seattle/"
   }, "research from Amalgam Insights"))));
 }
 ;
-MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/meshery-provides-the-service-mesh-management-plane-and-kubernetes-evolves-into-an-enterprise-platform</link><guid isPermaLink="false">https://layer5.io/company/news/meshery-provides-the-service-mesh-management-plane-and-kubernetes-evolves-into-an-enterprise-platform</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/eaa84d432f1d4a7696e80e21efa3fc1c/kubernetes-platform.png" length="0" type="image/png"/><content:encoded>&lt;img align=&quot;left&quot; style=&quot;padding:15px&quot; src=&quot;static/kubernetes-platform-1f0f43a436f90d8fba8920a55c5077f2.png&quot; alt=&quot;Kubernetes-platform&quot;/&gt;&lt;p&gt;A service mesh has become a critical part of platforms based on Kubernetes clusters. It provides both east-west and north-south traffic managementxi, security, observability, and shaping for services implemented by the cluster and supporting components. As clusters have grown in size and platforms have become comprised of many clusters, maintaining a consistent view, management, and policies for network layer 4 – 7 traffic has become increasingly complex.&lt;/p&gt;&lt;p&gt;In response, a number of vendors have extended control planes with a multi-cluster management layer such that they federate and manage service meshes at scale across multiple clouds and on-premises deployments. Both Hashicorp Consul and VMWare Tanzu NSX Service Mesh extend the service mesh control plane past the local service mesh to allow a management layer over multiple clouds and clusters. &lt;u&gt;The open source project &lt;a href=&quot;/service-mesh-management/meshery&quot;&gt;&lt;b&gt;Meshery&lt;/b&gt;&lt;/a&gt; is also providing a service mesh management plane as separate software that can interact using the Service Mesh Interface or through built-for-purpose adapters for a variety of existing service mesh products and projects.&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Like Kubernetes control planes, this extension of the service mesh control plane allows for consistent management and policies across clusters in different environments, a situation that is becoming more typical in enterprise IT applications.&lt;/p&gt;&lt;p&gt;Service mesh control plane federation is an emerging feature of service mesh products. Unlike Kubernetes control planes, it is not yet commonplace, but Amalgam Insights predicts that we will see service mesh control plane federation become a normal part of the service mesh landscape.&lt;/p&gt;&lt;center&gt;&lt;h5 class=&quot;black-text&quot;&gt;Access the full &lt;a href=&quot;https://amalgaminsights.com/product/market-landscape-kubernetes-evolves-into-an-enterprise-platform/&quot;&gt;research from Amalgam Insights&lt;/a&gt;&lt;/h5&gt;&lt;/center&gt;</content:encoded></item><item><title><![CDATA[Meshery accepted into the CNCF Landscape]]></title><description><![CDATA[var _excluded = ["components"];
+MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/meshery-provides-the-service-mesh-management-plane-and-kubernetes-evolves-into-an-enterprise-platform</link><guid isPermaLink="false">https://layer5.io/company/news/meshery-provides-the-service-mesh-management-plane-and-kubernetes-evolves-into-an-enterprise-platform</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/eaa84d432f1d4a7696e80e21efa3fc1c/kubernetes-platform.png" length="0" type="image/png"/><content:encoded>&lt;img align=&quot;left&quot; style=&quot;padding:15px&quot; src=&quot;static/kubernetes-platform-1f0f43a436f90d8fba8920a55c5077f2.png&quot; alt=&quot;Kubernetes-platform&quot;/&gt;&lt;p&gt;A service mesh has become a critical part of platforms based on Kubernetes clusters. It provides both east-west and north-south traffic managementxi, security, observability, and shaping for services implemented by the cluster and supporting components. As clusters have grown in size and platforms have become comprised of many clusters, maintaining a consistent view, management, and policies for network layer 4 – 7 traffic has become increasingly complex.&lt;/p&gt;&lt;p&gt;In response, a number of vendors have extended control planes with a multi-cluster management layer such that they federate and manage service meshes at scale across multiple clouds and on-premises deployments. Both Hashicorp Consul and VMWare Tanzu NSX Service Mesh extend the service mesh control plane past the local service mesh to allow a management layer over multiple clouds and clusters. &lt;u&gt;The open source project &lt;a href=&quot;/service-mesh-management/meshery&quot;&gt;&lt;b&gt;Meshery&lt;/b&gt;&lt;/a&gt; is also providing a service mesh management plane as separate software that can interact using the Service Mesh Interface or through built-for-purpose adapters for a variety of existing service mesh products and projects.&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Like Kubernetes control planes, this extension of the service mesh control plane allows for consistent management and policies across clusters in different environments, a situation that is becoming more typical in enterprise IT applications.&lt;/p&gt;&lt;p&gt;Service mesh control plane federation is an emerging feature of service mesh products. Unlike Kubernetes control planes, it is not yet commonplace, but Amalgam Insights predicts that we will see service mesh control plane federation become a normal part of the service mesh landscape.&lt;/p&gt;&lt;center&gt;&lt;h5 class=&quot;black-text&quot;&gt;Access the full &lt;a href=&quot;https://amalgaminsights.com/2018/12/20/the-view-from-kubeconcloudnativecon-seattle/&quot;&gt;research from Amalgam Insights&lt;/a&gt;&lt;/h5&gt;&lt;/center&gt;</content:encoded></item><item><title><![CDATA[Meshery accepted into the CNCF Landscape]]></title><description><![CDATA[var _excluded = ["components"];
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
@@ -532,8 +564,11 @@ var _frontmatter = {
   "author": "The Newsroom",
   "category": "Coverage",
   "thumbnail": "./cncf-landscape-horizontal-color.svg",
-  "eurl": "https://landscape.cncf.io/category=service-mesh&format=card-mode&grouping=category&selected=meshery",
+  "eurl": "https://landscape.cncf.io/card-mode?category=service-mesh&grouping=category&selected=meshery",
   "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true,
   "redirect_from": ["/news/meshery-accepted-into-cncf-landscape/"]
 };
 var layoutProps = {
@@ -578,7 +613,12 @@ var _frontmatter = {
   "category": "Press Release",
   "eurl": "",
   "redirect_from": ["/company/news/layer5-hashicorp-launch-service-mesh-partnership/", "/company/news/layer5-hashicorp-launch-service-mesh-partnership"],
-  "published": true
+  "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "technology": "WebAssembly",
+  "mesh": "Consul",
+  "resource": true
 };
 var layoutProps = {
   _frontmatter: _frontmatter
@@ -691,6 +731,8 @@ var _frontmatter = {
   "thumbnail": "./what-the-numbers-say-about-how-service-meshes-are-used-today.png",
   "eurl": "https://thenewstack.io/what-the-numbers-say-about-how-service-meshes-are-used-today/",
   "published": true,
+  "type": "News",
+  "resource": true,
   "redirect_from": ["https://thenewstack.io/what-the-numbers-say-about-how-service-meshes-are-used-today/"]
 };
 var layoutProps = {
@@ -718,7 +760,8 @@ return function MDXContent(_ref) {
     scrolling: "no",
     frameBorder: "no",
     allow: "autoplay",
-    src: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774586579%3Fsecret_token%3Ds-es7L3&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+    src: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774586579%3Fsecret_token%3Ds-es7L3&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+    loading: "lazy"
   }), mdx("br", null), mdx("br", null), "Calcote notes how traffic management is seen as a key feature among the many different service mesh capabilities, but it\u2019s most useful to advanced users. Speaking about the use of traffic management functionalities, Calcote said: \u201CFolks tend to be a little more advanced as they get into that because they\u2019re at that point they\u2019re actually affecting traffic and then routing requests differently, as opposed to something like just purely observing or getting a \u2018read-only\u2019 view in their environment.\u201D", mdx("br", null), mdx("br", null), mdx("p", {
     align: "center"
   }, "See the full, ", mdx("a", {
@@ -726,7 +769,7 @@ return function MDXContent(_ref) {
   }, "original article"), " published on The New Stack.")));
 }
 ;
-MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/the-new-stack-what-the-numbers-say-about-how-service-meshes-are-used-today</link><guid isPermaLink="false">https://layer5.io/company/news/the-new-stack-what-the-numbers-say-about-how-service-meshes-are-used-today</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/9c88cbeb3204afc91a855b9bc32fb3e1/what-the-numbers-say-about-how-service-meshes-are-used-today.png" length="0" type="image/png"/><content:encoded>&lt;div class=&quot;Newsstyle__NewsWrapper-sc-12r6uiw-0 jlToVU&quot;&gt;Service mesh technologies have emerged as a reliable way to manage observability, security and traffic management in microservices environments, typically with the use of Kubernetes for container orchestration. Specific use cases and needs for service meshes also vary.&lt;br/&gt;&lt;br/&gt;The New Stack recently completed a survey about service mesh use cases. While one third of those surveyed said their organizations already use service meshes to control traffic between microservices and Kubernetes environments, adoption rates and use varied significantly among the respondents. Sixteen percent of respondents said that their organization broadly uses service mesh in production environments and 17% said service meshes have limited use in production environments, for example.&lt;br/&gt;&lt;br/&gt;In this latest episode of The New Stack Analysts podcast, &lt;a href=&quot;https://www.linkedin.com/in/leecalcote&quot;&gt;Lee Calcote&lt;/a&gt;, an analyst and founder of service mesh provider &lt;a href=&quot;https://layer5.io/&quot;&gt;Layer5&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/brianredbeard/&quot;&gt;Brian “Redbeard” Harrington&lt;/a&gt;, a principal product manager for OpenShift service mesh at Red Hat, discussed the many nuances of what the survey numbers really mean.&lt;br/&gt;&lt;br/&gt;&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameBorder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774586579%3Fsecret_token%3Ds-es7L3&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;br/&gt;Calcote notes how traffic management is seen as a key feature among the many different service mesh capabilities, but it’s most useful to advanced users. Speaking about the use of traffic management functionalities, Calcote said: “Folks tend to be a little more advanced as they get into that because they’re at that point they’re actually affecting traffic and then routing requests differently, as opposed to something like just purely observing or getting a ‘read-only’ view in their environment.”&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;See the full, &lt;a href=&quot;https://thenewstack.io/what-the-numbers-say-about-how-service-meshes-are-used-today/&quot;&gt;original article&lt;/a&gt; published on The New Stack.&lt;/p&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Learn Cloud Native: Managing service meshes with Meshery]]></title><description><![CDATA[var _excluded = ["components"];
+MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/the-new-stack-what-the-numbers-say-about-how-service-meshes-are-used-today</link><guid isPermaLink="false">https://layer5.io/company/news/the-new-stack-what-the-numbers-say-about-how-service-meshes-are-used-today</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/9c88cbeb3204afc91a855b9bc32fb3e1/what-the-numbers-say-about-how-service-meshes-are-used-today.png" length="0" type="image/png"/><content:encoded>&lt;div class=&quot;Newsstyle__NewsWrapper-sc-12r6uiw-0 jlToVU&quot;&gt;Service mesh technologies have emerged as a reliable way to manage observability, security and traffic management in microservices environments, typically with the use of Kubernetes for container orchestration. Specific use cases and needs for service meshes also vary.&lt;br/&gt;&lt;br/&gt;The New Stack recently completed a survey about service mesh use cases. While one third of those surveyed said their organizations already use service meshes to control traffic between microservices and Kubernetes environments, adoption rates and use varied significantly among the respondents. Sixteen percent of respondents said that their organization broadly uses service mesh in production environments and 17% said service meshes have limited use in production environments, for example.&lt;br/&gt;&lt;br/&gt;In this latest episode of The New Stack Analysts podcast, &lt;a href=&quot;https://www.linkedin.com/in/leecalcote&quot;&gt;Lee Calcote&lt;/a&gt;, an analyst and founder of service mesh provider &lt;a href=&quot;https://layer5.io/&quot;&gt;Layer5&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/brianredbeard/&quot;&gt;Brian “Redbeard” Harrington&lt;/a&gt;, a principal product manager for OpenShift service mesh at Red Hat, discussed the many nuances of what the survey numbers really mean.&lt;br/&gt;&lt;br/&gt;&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameBorder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774586579%3Fsecret_token%3Ds-es7L3&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;br/&gt;Calcote notes how traffic management is seen as a key feature among the many different service mesh capabilities, but it’s most useful to advanced users. Speaking about the use of traffic management functionalities, Calcote said: “Folks tend to be a little more advanced as they get into that because they’re at that point they’re actually affecting traffic and then routing requests differently, as opposed to something like just purely observing or getting a ‘read-only’ view in their environment.”&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;See the full, &lt;a href=&quot;https://thenewstack.io/what-the-numbers-say-about-how-service-meshes-are-used-today/&quot;&gt;original article&lt;/a&gt; published on The New Stack.&lt;/p&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Learn Cloud Native: Managing service meshes with Meshery]]></title><description><![CDATA[var _excluded = ["components"];
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
@@ -785,6 +828,8 @@ var _frontmatter = {
   "eurl": "https://searchapparchitecture.techtarget.com/feature/Vendors-make-a-splash-in-2019-service-mesh-implementation-rush",
   "published": true,
   "category": "Coverage",
+  "type": "News",
+  "resource": true,
   "redirect_from": ["/news/vendors-make-a-splash-in-2019-service-mesh-implementation-rush/"]
 };
 var layoutProps = {
@@ -823,6 +868,9 @@ var _frontmatter = {
   "thumbnail": "./Meshery_top3_servish_mesh_development.png",
   "eurl": "https://thenewstack.io/the-top-3-service-mesh-developments-in-2020/",
   "published": true,
+  "type": "News",
+  "product": "Meshery",
+  "resource": true,
   "redirect_from": ["/news/meshery-in-top3-service-mesh-developments-in-2020/"]
 };
 var layoutProps = {
@@ -894,6 +942,7 @@ return function MDXContent(_ref) {
     width: "450",
     height: "300",
     src: "https://www.youtube.com/embed/XZ6TZQeNuKQ",
+    loading: "lazy",
     frameBorder: "0",
     allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
     allowFullScreen: true
@@ -902,7 +951,7 @@ return function MDXContent(_ref) {
   }, "\nCNCF SIG Network Set to Push Cloud Native Networking Forward "), " (Posted Nov 23, 2019).")));
 }
 ;
-MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive</link><guid isPermaLink="false">https://layer5.io/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/fcc022de95829bfc4034ed72a6323daa/KubeCon_NA_2019_bg-01.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;div class=&quot;Newsstyle__NewsWrapper-sc-12r6uiw-0 jlToVU&quot;&gt;&lt;p&gt;KubeCon NA 2019 - San Diego, CA&lt;/p&gt;&lt;p&gt;At KubeCon 2019, Lee Calcote and Matt Klein introducted the CNCF&amp;#x27;s latest Special Interest Group for cloud native networking.&lt;/p&gt;&lt;iframe width=&quot;450&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/XZ6TZQeNuKQ&quot; frameBorder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;Related news by Sean Michael Kerner: &lt;a href=&quot;http://www.enterprisenetworkingplanet.com/datacenter/cncf-sig-network-set-to-push-cloud-native-networking-forward.html&quot;&gt;
+MDXContent.isMDXComponent = true;]]></description><link>https://layer5.io/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive</link><guid isPermaLink="false">https://layer5.io/company/news/kubecon-na-cncf-sig-network-set-intro-and-deep-dive</guid><dc:creator><![CDATA[The Newsroom]]></dc:creator><pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate><enclosure url="https://layer5.io/static/fcc022de95829bfc4034ed72a6323daa/KubeCon_NA_2019_bg-01.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;div class=&quot;Newsstyle__NewsWrapper-sc-12r6uiw-0 jlToVU&quot;&gt;&lt;p&gt;KubeCon NA 2019 - San Diego, CA&lt;/p&gt;&lt;p&gt;At KubeCon 2019, Lee Calcote and Matt Klein introducted the CNCF&amp;#x27;s latest Special Interest Group for cloud native networking.&lt;/p&gt;&lt;iframe width=&quot;450&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/XZ6TZQeNuKQ&quot; loading=&quot;lazy&quot; frameBorder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;p&gt;Related news by Sean Michael Kerner: &lt;a href=&quot;http://www.enterprisenetworkingplanet.com/datacenter/cncf-sig-network-set-to-push-cloud-native-networking-forward.html&quot;&gt;
 CNCF SIG Network Set to Push Cloud Native Networking Forward &lt;/a&gt; (Posted Nov 23, 2019).&lt;/p&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Enterprise Networking Planet: CNCF SIG Network Set to Push Cloud Native Networking Forward]]></title><description><![CDATA[var _excluded = ["components"];
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -970,7 +1019,6 @@ var _frontmatter = {
   "author": "The Newsroom",
   "category": "Press Release",
   "thumbnail": "./cncf-stacked-color.svg",
-  "eurl": "https://landscape.cncf.io/category=cncf-members&format=logo-mode&grouping=category&selected=layer5-member&embed=yes",
   "published": true,
   "redirect_from": ["/news/layer5-joins-the-cncf/"]
 };
