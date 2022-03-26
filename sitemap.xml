@@ -41,8 +41,8 @@
 <url> <loc>https://layer5.io/blog/community/she-code-africa-contributhon-boot-camp-report</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/community/meet-the-summer-interns-of-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/programs/gsoc-experience-layer5-piyush-singariya</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/blog/community/meet-the-fall-interns-of-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/service-mesh-specifications/service-mesh-specifications-and-why-they-matter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/blog/community/meet-the-fall-interns-of-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/service-mesh-specifications/pipelining-service-mesh-specifications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/events/meshery-workshop-at-ccoss-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/meshery/an-introduction-to-meshery-webinar-on-demand</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -56,7 +56,6 @@
 <url> <loc>https://layer5.io/blog/category/cloud-native</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/category/community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/category/community/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/blog/category/community/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/category/events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/category/istio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/blog/category/landscape</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -129,8 +128,8 @@
 <url> <loc>https://layer5.io/resources/service-mesh/service-mesh-fundamentals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/swappable-sidecars</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/beginners-guide-to-contributing-to-meshery-and-mesheryctl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/resources/service-mesh/contributing-to-meshery-api-swagger-documentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/an-introduction-to-all-layer5-repositories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/resources/service-mesh/contributing-to-meshery-api-swagger-documentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/an-introduction-to-contributing-to-meshery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/an-introduction-to-mesheryctl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/resources/service-mesh/a-tutorial-on-contributing-to-layer5-and-working-with-git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -157,8 +156,8 @@
 <url> <loc>https://layer5.io/company/news/cncf-adopts-meshery-the-service-mesh-management-plane</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/company/news/cncf-adopts-service-mesh-performance-standard-established-by-layer5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/company/news/cncf-adopts-meshery-to-advance-service-mesh-management</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/company/news/6-cncf-service-mesh-tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/company/news/analyzing-service-mesh-performance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/company/news/6-cncf-service-mesh-tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-books/istio-up-and-running</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-books/service-mesh-patterns</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-books/the-enterprise-path-to-service-mesh-architectures</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -224,6 +223,7 @@
 <url> <loc>https://layer5.io/community/members/aditya-chatterjee</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/aisuko-li</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/alonso-lopez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/community/members/ameya-agashe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/anand-kumar-singh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/aneesh-nema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/anirudh-jain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -248,7 +248,6 @@
 <url> <loc>https://layer5.io/community/members/elizabeth-lola</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/gaurav-chadha</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/gautam-arora</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/community/members/ameya-agashe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/gerald-maboshe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/gunjan-paul</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/haim-helman</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -283,7 +282,6 @@
 <url> <loc>https://layer5.io/community/members/muskan-bansal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/naimat-oyewale</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/naveen-jain</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/community/members/navendu-pottekkat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/neil-alvares</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/nic-jackson</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/nikhil-ladha</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -318,17 +316,17 @@
 <url> <loc>https://layer5.io/community/members/sako-mammadov</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/saurabh-thakur</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/sayantan-bose</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/community/members/shriti-chandra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/shivay-lamba</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/community/members/shriti-chandra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/shubham-tyagi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/shubhank-saxena</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/community/members/stephen-miller</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/soham-sonawane</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/community/members/stephen-miller</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/subham-rai</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/suhani-agarwal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/sunku-ranganath</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/community/members/supratik-das</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/suryashankar-das</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/community/members/supratik-das</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/tajinder-singh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/tanuj-agarwal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/utkarsh-srivastava</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -343,12 +341,12 @@
 <url> <loc>https://layer5.io/community/members/yash-pandey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/yash-vardhan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/zainuddeen-abdul-muiz</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-eu-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-na-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/kubecon-na-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/learn/service-mesh-workshops/velocity-london-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/oreilly-live-online-training</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/devfest-montreal-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/learn/service-mesh-workshops/velocity-london-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-eu-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/all-things-open-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/cloud-native-austin-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/open-source-101-at-home</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
